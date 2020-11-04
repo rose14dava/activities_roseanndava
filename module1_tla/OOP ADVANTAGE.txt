@@ -1,0 +1,10 @@
+Question:  How the OOP works in arrays, table, string and files manipulation?
+ Answer:
+
+OOPs makes development and maintenance easier, whereas, in a procedure-oriented programming language, 
+it is not easy to manage if code grows as project size increases.
+
+ OOPs provides data hiding, whereas, in a procedure-oriented programming language, global data can be accessed from anywhere.
+ 
+ OOPs provides the ability to simulate real-world event much more effectively. We can provide the solution of
+ real word problem if we are using the Object-Oriented Programming language.
